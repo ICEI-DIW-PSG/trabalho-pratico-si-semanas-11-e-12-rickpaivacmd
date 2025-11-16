@@ -14,5 +14,30 @@
       "nome": "Usuario Comum",
       "email": "user@abc.com"
     }
+  ],
+  "corridas": [
+    {
+      "nome": "GP do Bahrein — Atualizado",
+      "tipo": "Corrida",
+      "data": "2025-03-02",
+      "circuito": "Bahrain International Circuit",
+      "pais": "Bahrein",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "GP da Arábia Saudita",
+      "data": "2025-03-09",
+      "circuito": "Jeddah Corniche Circuit",
+      "pais": "Arábia Saudita"
+    },
+    {
+      "nome": "GP de Imola",
+      "tipo": "Corrida",
+      "data": "2025-05-18",
+      "circuito": "Autódromo Enzo e Dino Ferrari",
+      "pais": "Itália",
+      "id": 4
+    }
   ]
 }
