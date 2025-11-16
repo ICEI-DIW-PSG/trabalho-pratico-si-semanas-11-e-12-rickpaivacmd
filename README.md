@@ -6,24 +6,27 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Henrique Paiva Maciel Ferreira
+- Matricula: 897765
+- Proposta de projeto escolhida: Site de informações para fãs de F1
+- Breve descrição sobre seu projeto: O F1 Insights é um site voltado para fãs da Fórmula 1, com informações atualizadas sobre corridas, equipes, pilotos e análises técnicas da temporada. O objetivo é oferecer uma visão clara e envolvente do mundo da F1, reunindo notícias, curiosidades e destaques em um só lugar.
 
 **Print dos testes da API com Postman ou similar**
 
 << COLOQUE A IMAGEM GET AQUI >>
+![GET](c/Users/henriquepaiva/trabalho-pratico-si-semanas-11-e-12-rickpaivacmd-1/public/images/TESTE OK - COMMIT 2 - GET.png)
 
 << COLOQUE A IMAGEM POST AQUI >>
-
+![POST](/Users/henriquepaiva/trabalho-pratico-si-semanas-11-e-12-rickpaivacmd-1/public/images/TESTE OK - COMMIT 2 - POST.png)
 << COLOQUE A IMAGEM PUT AQUI >>
+![PUT](/Users/henriquepaiva/trabalho-pratico-si-semanas-11-e-12-rickpaivacmd-1/public/images/TESTE OK - COMMIT 2 - PUT.png)
 
 << COLOQUE A IMAGEM DELETE AQUI >>
+![DELETE](/Users/henriquepaiva/trabalho-pratico-si-semanas-11-e-12-rickpaivacmd-1/public/images/TESTE OK - COMMIT 2 - DELETE.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+
 
 ## **Orientações Gerais**
 
